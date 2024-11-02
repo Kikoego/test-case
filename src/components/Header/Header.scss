@@ -1,0 +1,17 @@
+.header {
+	background-color: #00838F;
+}
+.header-items {
+	display: flex;
+	gap: 8px;
+	padding: 19px 0 19px 32px;
+	height: 42px;
+}
+.header-items--input {
+	width: 908px;
+	text-indent: 16px;
+	border-radius: 4px;
+	outline: 0;
+	outline-offset: 0;
+	border: none;
+}
